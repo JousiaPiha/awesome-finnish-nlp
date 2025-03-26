@@ -80,6 +80,9 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
   - Research group producing high-quality Finnish NLP tools, corpora, and pre-trained models.
 - [HPLT Project](https://hplt-project.org/)
   - High-Performance Language Technologies project — aims to build open LLMs in European languages, including Finnish, using supercomputing resources.
+- [ELG – European Language Grid](https://live.european-language-grid.eu/)
+  - ELG contains tools and services, language resources and information on European LT companies and research organisations as well as their projects.
+  → [ELG's Finnish resources](https://live.european-language-grid.eu/catalogue/?&language__term=Finnish)
 
 ## Pre-trained Models
 
@@ -138,12 +141,6 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 - [Apertium](https://apertium.org/)  
   A rule-based machine translation platform supporting Finnish–Estonian and other low-resource pairs. Lightweight, linguistically motivated, and fully open-source.
 
-- [Fairseq](https://github.com/facebookresearch/fairseq)  
-  Meta's sequence modeling toolkit used in training multilingual MT models like NLLB. Also used in many research projects involving Finnish.
-
-- [ELG – European Language Grid](https://live.european-language-grid.eu/catalogue/search?language=fi&modality=machine-translation)  
-  Aggregates various Finnish-compatible machine translation systems. Includes both open and commercial services developed across Europe.
-
 ---
 
 ### Pipelines and Frameworks
@@ -160,20 +157,11 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 
 These are proprietary services that support Finnish, often used in production environments:
 
-- [Google Cloud Translation](https://cloud.google.com/translate)  
-  Fast, production-ready neural MT API with Finnish support. Offers both standard and custom model options via AutoML.
-
-- [DeepL Translator](https://www.deepl.com/translator)  
-  Widely praised for translation quality. Supports Finnish with a polished web UI, desktop apps, and a commercial API.
-
+- [Google Cloud Translation](https://cloud.google.com/translate)
+- [DeepL Translator](https://www.deepl.com/translator)
 - [Microsoft Translator (Azure)](https://www.microsoft.com/en-us/translator/)  
-  Neural MT service by Microsoft. Finnish is supported and integrated into many Microsoft products and services.
-
-- [Amazon Translate](https://aws.amazon.com/translate/)  
-  Neural MT as a managed service on AWS. Finnish is included in the supported languages.
-
-- [Lingsoft MT Services](https://www.lingsoft.fi/en/solutions/language-services/translation)  
-  Commercial MT solutions developed in Finland. Often used in Finnish government and healthcare sectors. Some services may be available via ELG.
+- [Amazon Translate](https://aws.amazon.com/translate/)
+- [Lingsoft MT Services](https://www.lingsoft.fi/en/solutions/language-services/translation)
 
 
 
