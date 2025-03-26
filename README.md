@@ -125,13 +125,58 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 
 ## Machine Translation
 
+### Open-Source Models and Tools
+
 - [Opus-MT](https://github.com/Helsinki-NLP/Opus-MT)  
-  Open-source neural machine translation models and services developed by Helsinki-NLP. Supports many language pairs, including Finnish.  
-  → Models available on [Hugging Face](https://huggingface.co/Helsinki-NLP)
+  Open-source neural machine translation models developed by Helsinki-NLP, covering a wide range of language pairs including Finnish.  
+  → Models available at [Hugging Face: Helsinki-NLP](https://huggingface.co/Helsinki-NLP)
 
 - [Facebook NLLB-200](https://ai.meta.com/research/no-language-left-behind/)  
-  A massively multilingual translation model by Meta AI supporting 200 languages, including Finnish. Designed to improve translation quality for low-resource languages.  
+  No Language Left Behind (NLLB-200) is a multilingual MT model supporting 200 languages, including Finnish. Designed to improve translation quality for low-resource languages.  
   → [Hugging Face: facebook/nllb-200-distilled-1.3B](https://huggingface.co/facebook/nllb-200-distilled-1.3B)
+
+- [Apertium](https://apertium.org/)  
+  A rule-based machine translation platform supporting Finnish–Estonian and other low-resource pairs. Lightweight, linguistically motivated, and fully open-source.
+
+- [Fairseq](https://github.com/facebookresearch/fairseq)  
+  Meta's sequence modeling toolkit used in training multilingual MT models like NLLB. Also used in many research projects involving Finnish.
+
+- [ELG – European Language Grid](https://live.european-language-grid.eu/catalogue/search?language=fi&modality=machine-translation)  
+  Aggregates various Finnish-compatible machine translation systems. Includes both open and commercial services developed across Europe.
+
+---
+
+### Pipelines and Frameworks
+
+- [OpenNMT](https://opennmt.net/)  
+  A general-purpose neural machine translation framework. Finnish support depends on available training data (can be combined with OPUS datasets).
+
+- [MarianNMT](https://marian-nmt.github.io/)  
+  High-performance NMT framework used to train many Opus-MT models. Supports custom training for Finnish models using OPUS corpora.
+
+---
+
+### Commercial Machine Translation APIs
+
+These are proprietary services that support Finnish, often used in production environments:
+
+- [Google Cloud Translation](https://cloud.google.com/translate)  
+  Fast, production-ready neural MT API with Finnish support. Offers both standard and custom model options via AutoML.
+
+- [DeepL Translator](https://www.deepl.com/translator)  
+  Widely praised for translation quality. Supports Finnish with a polished web UI, desktop apps, and a commercial API.
+
+- [Microsoft Translator (Azure)](https://www.microsoft.com/en-us/translator/)  
+  Neural MT service by Microsoft. Finnish is supported and integrated into many Microsoft products and services.
+
+- [Amazon Translate](https://aws.amazon.com/translate/)  
+  Neural MT as a managed service on AWS. Finnish is included in the supported languages.
+
+- [Lingsoft MT Services](https://www.lingsoft.fi/en/solutions/language-services/translation)  
+  Commercial MT solutions developed in Finland. Often used in Finnish government and healthcare sectors. Some services may be available via ELG.
+
+
+
 
 ## Papers
 
