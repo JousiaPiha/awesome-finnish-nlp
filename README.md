@@ -175,9 +175,14 @@ These are proprietary services that support Finnish, often used in production en
 
 - todo
 
-## Contributing
+---
 
-Contributions are welcome! Please see the [CONTRIBUTING](CONTRIBUTING.md) file for guidelines.
+This list aims to highlight the growing ecosystem of Finnish NLP tools and models. 
+Maintained by [Jousia Piha](https://www.linkedin.com/in/jousia-piha/)
+
+Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+- todo
 
 ## License
 
