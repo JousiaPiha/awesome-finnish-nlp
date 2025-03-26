@@ -52,7 +52,7 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 ## Morphology & Parsers
 
 - [Omorfi](https://flammie.github.io/omorfi/)
-  - Omorfi is a free and open source project containing various tools and data for natural language processing of Finnish based on a knowledge driven paradigm.
+  Omorfi is a free and open source project containing various tools and data for natural language processing of Finnish based on a knowledge driven paradigm.
 - [UralicNLP](https://www.uralicnlp.com/)
 - [Turku Neural Parser Pipeline](https://turkunlp.org/Turku-neural-parser-pipeline/)
 
