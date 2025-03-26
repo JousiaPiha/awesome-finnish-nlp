@@ -22,6 +22,7 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 - [Speech technologies](#speech-technologies)
   - [Text-to-Speech (TTS)](#text-to-speech-tts)
   - [Speech-to-Text (STT)](#speech-to-text-stt)
+- [Machine translation](#machine-translation)
 - [Papers](#papers)
 - [Future Directions](#future-directions)
 - [Contributing](#contributing)
@@ -93,6 +94,7 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 ### Named Entity Recognition (NER)
 - [FinBERT NER (Kansallisarkisto)](https://huggingface.co/Kansallisarkisto/finbert-ner)
   - Named entity recognition model trained on Finnish historical text for recognizing people, places, and dates.
+
 - [Finnish NER by TurkuNLP](https://turkunlp.org/fin-ner.html)
   - NER pipeline developed using modern neural parsing tools for high-accuracy named entity recognition on contemporary Finnish.
 
@@ -120,6 +122,16 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
   - A fast, lightweight neural TTS engine with Finnish voice support, designed for offline use on CPUs and embedded devices.
 
 ### Speech-to-Text (STT)
+
+## Machine Translation
+
+- [Opus-MT](https://github.com/Helsinki-NLP/Opus-MT)  
+  Open-source neural machine translation models and services developed by Helsinki-NLP. Supports many language pairs, including Finnish.  
+  → Models available on [Hugging Face](https://huggingface.co/Helsinki-NLP)
+
+- [Facebook NLLB-200](https://ai.meta.com/research/no-language-left-behind/)  
+  A massively multilingual translation model by Meta AI supporting 200 languages, including Finnish. Designed to improve translation quality for low-resource languages.  
+  → [Hugging Face: facebook/nllb-200-distilled-1.3B](https://huggingface.co/facebook/nllb-200-distilled-1.3B)
 
 ## Papers
 
