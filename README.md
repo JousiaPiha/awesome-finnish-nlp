@@ -68,13 +68,13 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 
 ## Pre-trained Models
 
-### 🔤 General Language Models
+### General Language Models
 - [FinBERT](https://github.com/TurkuNLP/FinBERT) – A BERT-based model pre-trained on Finnish corpora.
 
-### 😊 Sentiment Analysis
+### Sentiment Analysis
 - [FinBERT Finnish Sentiment](https://huggingface.co/fergusq/finbert-finnsentiment) – Fine-tuned FinBERT model for Finnish sentiment classification.
 
-### 🧠 Named Entity Recognition (NER)
+### Named Entity Recognition (NER)
 - [FinBERT NER (Kansallisarkisto)](https://huggingface.co/Kansallisarkisto/finbert-ner) – NER model for Finnish historical data.
 - [Finnish NER by TurkuNLP](https://turkunlp.org/fin-ner.html) – Modern NER model built using the Turku Neural Parser Pipeline.
 
@@ -93,10 +93,10 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 
 ## Speech Technologies
 
-### 🗣️ Text-to-Speech (TTS)
+### Text-to-Speech (TTS)
 - [Piper](https://github.com/rhasspy/piper)
 
-### 🧏 Speech-to-Text (STT)
+### Speech-to-Text (STT)
 
 ## Papers
 
