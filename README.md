@@ -52,7 +52,7 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 
 ### Other Finnish datasets
 
--[SemFi](https://zenodo.org/records/1463685)
+- [SemFi](https://zenodo.org/records/1463685)
 
 
 ### Multilingual datasets with a notable Finnish subset
