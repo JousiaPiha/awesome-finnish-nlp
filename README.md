@@ -51,6 +51,11 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 - todo (table)
 
 
+### Other Finnish datasets
+
+-[SemFi](https://zenodo.org/records/1463685)
+
+
 ### Multilingual datasets with a notable Finnish subset
 
 | Dataset   | Description                                                                                                                                                     | Size   | Size, FI | Documents    | Documents, FI | Source                                                  |
@@ -63,11 +68,33 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 
 ### Wordlists and lexicons
 
+- [Kotus Modern Finnish Word List](https://kotus.fi/sanakirjat/kielitoimiston-sanakirja/nykysuomen-sana-aineistot/nykysuomen-sanalista/)
 - [Finnish Parsebank's Word Frequency List](http://dl.turkunlp.org/finnish-parsebank/)
   - Frequency list derived from the Finnish Internet Parsebank corpus, covering a wide range of Finnish word forms and lemmas.
-- [Parole Corpus Frequency Lists](https://kaino.kotus.fi/sanat/taajuuslista/parole.php)
+- [Frequency List of Written Finnish Word Forms](https://kaino.kotus.fi/sanat/taajuuslista/parole.php)
   - Word frequency lists compiled by Kotus from the Finnish PAROLE corpus — includes lemmas and part-of-speech information.
+- [Frequencies of Early Modern Finnish Words](https://kaino.kotus.fi/sanat/taajuuslista/vns.php)
+- [Frequencies of Old Literary Finnish Words](https://kaino.kotus.fi/sanat/taajuuslista/vks.php)
+- [Joukahainen corpus](https://joukahainen.puimula.org/)
+- [Finnish names](https://www.avoindata.fi/data/fi/dataset/none)
+- [fi-words](https://github.com/akx/fi-words)
+- [Sanat-wiki (CSC)](https://sanat.csc.fi/)
 
+
+### Finnish speech corpora
+
+- Parliament Plenary Speech Corpus
+- Aalto Finnish Parliament ASR Corpus
+- Lahjoita puhetta
+- [Mozzilla Common Voice](https://commonvoice.mozilla.org/en/datasets)
+- VoxPopuli Finnish
+- [CSS10](https://github.com/Kyubyong/css10)
+  - A Collection of Single Speaker Speech Datasets for 10 Languages
+- [Fleurs](https://huggingface.co/datasets/google/fleurs)
+
+#### Commercial speech corpora
+- Finnish Speecon
+- SpeechDat-Car Finnish
 
 ## Pre-trained Models
 
@@ -93,12 +120,14 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 
 - [Omorfi](https://flammie.github.io/omorfi/)
   - Omorfi is a free and open source project containing various tools and data for natural language processing of Finnish based on a knowledge driven paradigm.
-- [UralicNLP](https://www.uralicnlp.com/)
+- [UralicNLP](https://github.com/mikahama/uralicNLP)
   - A Python toolkit for NLP tasks in Uralic languages, including Finnish, with support for morphological analysis, disambiguation, and lemmatization using Omorfi and Giellatekno resources.
 - [Turku Neural Parser Pipeline](https://turkunlp.org/Turku-neural-parser-pipeline/)
   - A neural parsing pipeline for Finnish and other languages, providing tokenization, lemmatization, POS tagging, dependency parsing, and NER.
 - [SpaCy Finnish Model](https://spacy.io/models/fi) - Finnish language model for SpaCy.
   - A statistical pipeline for Finnish NLP in SpaCy, supporting tokenization, POS tagging, dependency parsing, lemmatization, and named entity recognition.
+- [Murre](https://github.com/mikahama/murre)
+  - Normalize non-standard Finnish to standard Finnish.
 
 
 ### Universal Dependencies
@@ -107,10 +136,13 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
   - The Finnish Turku Dependency Treebank (TDT), a manually annotated treebank following the Universal Dependencies framework.
 
 
-### Semantic Similarity
+### Sentiment and Semantic Similarity
 
 - [Semantic Similarity of Words](http://epsilon-it.utu.fi/wv_demo/)
   - A demo tool from University of Turku to explore cosine similarity between Finnish words using pre-trained word vector embeddings.
+- [FinMeter](https://github.com/mikahama/finmeter)
+  - [FinMeter models](https://zenodo.org/records/3473456)
+  - [Finnish Semantic Relatedness Model](https://b2share.eudat.eu/records/5f1a5add29094d85800e5d4d2b852cdc)
 
 
 ## Speech Technologies
@@ -191,7 +223,7 @@ These are proprietary services that support Finnish, often used in production en
 
 ### Github
 
-- todo
+- [Mika Hämäläinen](https://github.com/mikahama)
 
 
 ### Organizations
@@ -206,6 +238,7 @@ These are proprietary services that support Finnish, often used in production en
   - High-Performance Language Technologies project — aims to build open LLMs in European languages, including Finnish, using supercomputing resources.
 - [ELG – European Language Grid](https://live.european-language-grid.eu/)
   - ELG contains tools and services, language resources and information on European LT companies and research organisations as well as their projects.
+- [UralicNLP](https://www.uralicnlp.com/)
 
 
 ## Papers
