@@ -195,6 +195,8 @@ These are proprietary services that support Finnish, often used in production en
 
 ## LLMs for Finnish
 
+A list of general LLMs capable of Finnish.
+
 | Name    | Open-source | Available locally | Links |
 |---------|-------------|-------------------|-------|
 | ChatGPT | No          | No                | [ChatGPT](https://chatgpt.com/) |
