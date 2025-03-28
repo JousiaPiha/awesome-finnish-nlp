@@ -198,7 +198,7 @@ These are proprietary services that support Finnish, often used in production en
 A list of general LLMs capable of Finnish.
 
 | Name    | Openess      | Links |
-|---------|------------- |-------------------|-------|
+|---------|------------- |-------|
 | ChatGPT | Closed       | [ChatGPT](https://chatgpt.com/) |
 | Gemma 3 | Open weights | [Hugging Face](https://huggingface.co/collections/google/gemma-3-release-67c6c6f89c4f76621268bb6d), [Ollama](https://ollama.com/library/gemma3) |
 | Gemini  | Closed       | [Gemini](https://gemini.google.com) |
