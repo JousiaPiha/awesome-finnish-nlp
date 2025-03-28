@@ -197,13 +197,13 @@ These are proprietary services that support Finnish, often used in production en
 
 A list of general LLMs capable of Finnish.
 
-| Name    | Open-source | Available locally | Links |
+| Name    | Openess | Available locally | Links |
 |---------|-------------|-------------------|-------|
-| ChatGPT | No          | No                | [ChatGPT](https://chatgpt.com/) |
-| Gemma 3 | Yes         | Yes               | [Hugging Face](https://huggingface.co/collections/google/gemma-3-release-67c6c6f89c4f76621268bb6d), [Ollama](https://ollama.com/library/gemma3) |
-| Gemini  | No          | No                | [Gemini](https://gemini.google.com) |
-| Poro    | Yes         | Yes               | [Poro](https://huggingface.co/collections/LumiOpen/poro-34b-66506aaedb8d705069ad7ecb) |
-| Viking  | Yes         | Yes               | [Viking](https://huggingface.co/collections/LumiOpen/viking-660fa4c659d8544c00f77d9b) |
+| ChatGPT | Closed          | No                | [ChatGPT](https://chatgpt.com/) |
+| Gemma 3 | Open weights         | Yes               | [Hugging Face](https://huggingface.co/collections/google/gemma-3-release-67c6c6f89c4f76621268bb6d), [Ollama](https://ollama.com/library/gemma3) |
+| Gemini  | Closed          | No                | [Gemini](https://gemini.google.com) |
+| Poro    | Open         | Yes               | [Poro](https://huggingface.co/collections/LumiOpen/poro-34b-66506aaedb8d705069ad7ecb) |
+| Viking  | Open         | Yes               | [Viking](https://huggingface.co/collections/LumiOpen/viking-660fa4c659d8544c00f77d9b) |
 
 
 ## Organizations and notable users
