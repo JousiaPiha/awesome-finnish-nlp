@@ -8,6 +8,7 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
   - [Finnish corpus listings and repositories](#finnish-corpus-listings-and-repositories)
   - [Popular Finnish corpora](#popular-finnish-corpora)
   - [Other Finnish datasets](#other-finnish-datasets)
+  - [Evaluation datasets](#evaluation-datasets)
   - [Multilingual datasets with a notable Finnish subset](#multilingual-datasets-with-a-notable-finnish-subset)
   - [Wordlists and lexicons](#wordlists-and-lexicons)
   - [Finnish speech corpora](#finnish-speech-corpora)
