@@ -139,6 +139,7 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 
 - [Finnish TDT](https://universaldependencies.org/treebanks/fi_tdt/index.html) - Universal Dependencies treebank for Finnish.
   - The Finnish Turku Dependency Treebank (TDT), a manually annotated treebank following the Universal Dependencies framework.
+-  [Finnish data from the FTB treebank](https://github.com/UniversalDependencies/UD_Finnish-FTB)
 
 
 ### Sentiment and Semantic Similarity
