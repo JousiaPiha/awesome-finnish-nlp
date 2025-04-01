@@ -75,7 +75,7 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 | CulturaX  | CulturaX is a multilingual dataset containing 6.3 trillion tokens across 167 languages, tailored for large language model development.                          | 27 TB  | 124 GB   | 7.2 billion  | 30.47 million | https://huggingface.co/datasets/uonlp/CulturaX          |
 | Fineweb 2 | Fineweb 2 is the second iteration of the popular FineWeb dataset, bringing high quality pretraining data to over 1000 languages.                                | 7.9 TB | 56.8 GB  | 4.57 billion | 33.1 million  | https://huggingface.co/datasets/HuggingFaceFW/fineweb-2 |
 | HPLT 2.0  | Web-crawled multilingual corpora. The High-Performance Language Technologies (HPLT) project has released large-scale web-crawled corpora in multiple languages. | 15 TB  | 150 GB   | 10.6 billion | 34.8 million  | https://hplt-project.org/datasets/v2.0                  |
-| Oscar     | | 41.1 GB |  | 14.5 million | https://oscar-project.github.io/documentation |
+| Oscar     | - | 41.1 GB | - | 14.5 million | https://oscar-project.github.io/documentation |
 
 
 ### Wordlists and lexicons
