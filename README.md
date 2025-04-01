@@ -146,6 +146,7 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
   - A statistical pipeline for Finnish NLP in SpaCy, supporting tokenization, POS tagging, dependency parsing, lemmatization, and named entity recognition.
 - [Murre](https://github.com/mikahama/murre)
   - Normalize non-standard Finnish to standard Finnish.
+- [FinnPos](https://github.com/mpsilfve/FinnPos)
 
 
 ### Universal Dependencies
