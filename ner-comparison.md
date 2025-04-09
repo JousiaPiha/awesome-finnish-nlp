@@ -1,4 +1,4 @@
-> **Note:** This comparison table was generated with the assistance of AI and may contain inaccuracies. They have not yet been fully reviewed by a human expert. Please verify critical details from the original sources before citing.
+> **Note:** This comparison table was generated with the assistance of AI and may contain inaccuracies. It has not yet been fully reviewed by a human expert. Please verify critical details from the original sources before citing.
 
 ### 📊 NER Corpora Comparison for Finnish
 
