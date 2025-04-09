@@ -283,9 +283,19 @@ A list of general LLMs capable of Finnish.
 
 A collection of interesting research papers related to Finnish NLP.
 
-- [A Broad-coverage Corpus for Finnish Named Entity Recognition](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.567.pdf)
+### 2025
 - [An Expanded Massive Multilingual Dataset for High-Performance Language Technologies](https://arxiv.org/abs/2503.10267)
+
+### 2021
+- [Fine-grained Named Entity Annotation for Finnish](https://aclanthology.org/2021.nodalida-main.14.pdf)
 - [The Current State of Finnish NLP](https://arxiv.org/abs/2109.11326)
+
+### 2020
+- [A Broad-coverage Corpus for Finnish Named Entity Recognition](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.567.pdf)
+
+### 2019
+- [A Finnish News Corpus for Named Entity Recognition](https://arxiv.org/abs/1908.04212)
+
 
 ## Future Directions
 
