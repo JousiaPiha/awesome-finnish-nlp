@@ -17,6 +17,7 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
   - [General Language Models](#general-language-models)
   - [Sentiment Analysis](#sentiment-analysis)
   - [Named Entity Recognition (NER)](#named-entity-recognition-ner)
+  - [Semantic Similarity and Sentence Embeddings](#semantic-similarity-and-sentence-embeddings)
 - [Tools](#tools)
   - [Morphology and Parsers](#morphology-and-parsers)
   - [Universal Dependencies](#universal-dependencies)
@@ -61,6 +62,8 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
     - An extended, fine-grained NER corpus for Finnish using the OntoNotes entity schema, designed for bilingual and cross-lingual modeling by combining and refining Turku NER and FiNER annotations.
   - [Finer](https://github.com/mpsilfve/finer-data)
     - A manually annotated NER corpus of Finnish technology news articles with six entity types and support for nested annotation, developed alongside the rule-based FINER tool.
+- [Turku paraphrase corpus](https://turkunlp.org/paraphrase.html)
+  - Fully manually annotated paraphrase corpus containing 100,000+ paraphrase pairs harvested from alternative subtitles, news headings, news articles, discussion forum messages, student translations, and essays.
 
 ### Monolingual Finnish corpora
 
@@ -145,6 +148,14 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 
 - [Finnish NER by TurkuNLP](https://turkunlp.org/fin-ner.html)
   - NER pipeline developed using modern neural parsing tools for high-accuracy named entity recognition on contemporary Finnish.
+
+### Semantic Similarity and Sentence Embeddings
+
+- [TurkuNLP/sbert-cased-finnish-paraphrase](https://huggingface.co/TurkuNLP/sbert-cased-finnish-paraphrase)
+  - A Sentence-BERT model fine-tuned for paraphrase and semantic similarity tasks in Finnish. Trained using cased Finnish data.
+
+- [TurkuNLP/sbert-uncased-finnish-paraphrase](https://huggingface.co/TurkuNLP/sbert-uncased-finnish-paraphrase)
+  - Uncased variant of the Finnish Sentence-BERT model, suitable for tasks where casing is not essential. Supports semantic search and clustering of Finnish sentences.
 
 
 ## Tools
