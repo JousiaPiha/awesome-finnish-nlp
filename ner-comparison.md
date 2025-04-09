@@ -1,4 +1,4 @@
-> **Note:** These comparison tables were generated with the assistance of AI and may contain inaccuracies. They have not yet been fully reviewed by a human expert. Please verify critical details from the original sources before citing.
+> **Note:** This comparison table was generated with the assistance of AI and may contain inaccuracies. They have not yet been fully reviewed by a human expert. Please verify critical details from the original sources before citing.
 
 ### 📊 NER Corpora Comparison for Finnish
 
@@ -14,4 +14,5 @@
 | **Cross-lingual Compatibility** | ❌ Custom label set, not designed for multilingual setups                                    | ❌ Same as FiNER                                                                         | ✅ Compatible with **English OntoNotes**, intended for **bilingual/cross-lingual** applications           |
 | **NER System Evaluated**      | Rule-based (FINER) and neural (Güngör-NN, Sohrab-NN)                                        | FinBERT                                                                                 | FinBERT, zero-shot XLM-R                                                                                  |
 | **Best Model Performance (F1)**| 85–88% in-domain (Digitoday), 78–80% out-of-domain (Wikipedia)                              | ~91.65%                                                                                 | ~93% (FinBERT), and strong cross-lingual zero-shot with XLM-R                                             |
-| **License**                   | CC BY-ND-NC 1.0 FI                                                                           | CC BY-NC                                                                                | Open-source, GitHub: [github.com/TurkuNLP/turku-one](https://github.com/TurkuNLP/turku-one)              |
+| **License**                   | CC BY-ND-NC 1.0 FI, GitHub: [https://github.com/mpsilfve/finer-data](https://github.com/mpsilfve/finer-data) | CC BY-NC, GitHub: [https://github.com/TurkuNLP/turku-ner-corpus](https://github.com/TurkuNLP/turku-ner-corpus)| Open-source, GitHub: [github.com/TurkuNLP/turku-one](https://github.com/TurkuNLP/turku-one)              |
+| **Papers** | [A Finnish News Corpus for Named Entity Recognition](https://arxiv.org/abs/1908.04212) | [A Broad-coverage Corpus for Finnish Named Entity Recognition](https://aclanthology.org/2020.lrec-1.567.pdf) | [Fine-grained Named Entity Annotation for Finnish](https://aclanthology.org/2021.nodalida-main.14.pdf) |
