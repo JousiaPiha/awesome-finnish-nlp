@@ -49,7 +49,7 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 
 ### Manually annotated Finnish corpora
 
-- Treebanks (See the comparison table here)
+- Treebanks ([See the comparison table](./treebank-comparison.md))
   - [Turku Dependency Treebank](https://github.com/UniversalDependencies/UD_Finnish-TDT)
   - [FinnTreeBank 1](https://github.com/UniversalDependencies/UD_Finnish-FTB)
 
