@@ -1,3 +1,5 @@
+> **Note:** This comparison table was generated with the assistance of AI and may contain inaccuracies. It has not yet been fully reviewed by a human expert. Please verify critical details from the original sources before citing.
+
 ### 📊 Finnish UD Treebanks Comparison
 
 | Feature                          | **UD_Finnish-TDT**                                | **UD_Finnish-FTB**                                 |
