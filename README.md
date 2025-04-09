@@ -6,6 +6,7 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 
 - [Corpora, datasets, word lists and lexicons](#corpora-datasets-word-lists-and-lexicons)
   - [Finnish corpus listings and repositories](#finnish-corpus-listings-and-repositories)
+  - [Manually annotated Finnish corpora](#manually-annotated-finnish-corpora)
   - [Popular Finnish corpora](#popular-finnish-corpora)
   - [Other Finnish datasets](#other-finnish-datasets)
   - [Evaluation datasets](#evaluation-datasets)
@@ -46,6 +47,11 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
   - A collection of publicly available corpora and lexical resources from the Institute for the Languages of Finland (Kotus), including news, spoken language, dialects, and more.
 - [Finnish corpora at Leipzig Corpora Collection](https://wortschatz.uni-leipzig.de/en/download/Finnish)
 
+### Manually annotated Finnish corpora
+
+- Treebanks (See the comparison table here)
+  - [Turku Dependency Treebank](https://github.com/UniversalDependencies/UD_Finnish-TDT)
+  - [FinnTreeBank 1](https://github.com/UniversalDependencies/UD_Finnish-FTB)
 
 ### Monolingual Finnish corpora
 
