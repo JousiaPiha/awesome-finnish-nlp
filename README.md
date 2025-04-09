@@ -54,8 +54,13 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
     - A high-quality, manually annotated treebank of diverse real-world Finnish texts, designed for NLP applications and closely aligned with Universal Dependencies guidelines.
   - [FinnTreeBank 1](https://github.com/UniversalDependencies/UD_Finnish-FTB)
     - A treebank of grammatical example sentences adapted from the VISK grammar, automatically converted to Universal Dependencies with partial manual revision.
-- [Turku NER corpus](https://github.com/TurkuNLP/turku-ner-corpus)
-  - Open broad-coverage corpus for Finnish named entity recognition.
+- NER corpora ([See the comparison table](https://github.com/JousiaPiha/awesome-finnish-nlp/blob/main/ner-comparison.md))
+  - [Turku NER corpus](https://github.com/TurkuNLP/turku-ner-corpus)
+    - A broad-coverage Finnish NER corpus with six entity types, built on top of the Turku Dependency Treebank, aiming to improve domain-general NER performance.
+  - [TurkuONE](https://github.com/TurkuNLP/turku-one)
+    - An extended, fine-grained NER corpus for Finnish using the OntoNotes entity schema, designed for bilingual and cross-lingual modeling by combining and refining Turku NER and FiNER annotations.
+  - [Finer](https://github.com/mpsilfve/finer-data)
+    - A manually annotated NER corpus of Finnish technology news articles with six entity types and support for nested annotation, developed alongside the rule-based FINER tool.
 
 ### Monolingual Finnish corpora
 
