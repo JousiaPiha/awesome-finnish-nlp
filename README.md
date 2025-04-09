@@ -49,9 +49,13 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 
 ### Manually annotated Finnish corpora
 
-- Treebanks ([See the comparison table](https://github.com/JousiaPiha/awesome-finnish-nlp/blob/main/treebank_comparison.md))
+- Treebanks ([See the comparison table](https://github.com/JousiaPiha/awesome-finnish-nlp/blob/main/treebank-comparison.md))
   - [Turku Dependency Treebank](https://github.com/UniversalDependencies/UD_Finnish-TDT)
+    - A high-quality, manually annotated treebank of diverse real-world Finnish texts, designed for NLP applications and closely aligned with Universal Dependencies guidelines.
   - [FinnTreeBank 1](https://github.com/UniversalDependencies/UD_Finnish-FTB)
+    - A treebank of grammatical example sentences adapted from the VISK grammar, automatically converted to Universal Dependencies with partial manual revision.
+- [Turku NER corpus](https://github.com/TurkuNLP/turku-ner-corpus)
+  - Open broad-coverage corpus for Finnish named entity recognition.
 
 ### Monolingual Finnish corpora
 
