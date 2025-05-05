@@ -12,8 +12,9 @@ Suomeksi on saatavilla neljä avoimen lähdekoodin oikolukuohjelmistoa. Voikko o
 
 
 ### Voikko
-Voikko on natiivi suomenkielinen oikoluku- ja tavutusohjelmisto, joka tukee myös kieliopin tarkistusta. Tämä on suomenkielen oikolukijoista ylivoimaisesti paras ja monipuolisin, sillä se käyttää morfologista analyysiä ja sisältää perussääntöihin perustuvan kielioppitarkistimen. Se on käytettävissä lukuisissa KDE-ohjelmissa ja avoimen lähdekoodin toimisto-ohjelmistoissa, kuten LibreOfficessa.
+Voikko on natiivi suomenkielinen oikoluku- ja tavutusohjelmisto, joka tukee myös kieliopin tarkistusta. Tämä on suomenkielen oikolukijoista ylivoimaisesti paras ja monipuolisin, sillä se käyttää morfologista analyysiä ja sisältää perussääntöihin perustuvan kielioppitarkistimen. Se on käytettävissä lukuisissa ilmaisissa ja avoimen lähdekoodin ohjelmistoissa, kuten LibreOfficessa.
 
+#### Asennus Debian/Ubuntu
 ```bash
 sudo apt install libvoikko1 voikko-fi libreoffice-voikko libenchant-2-voikko
 ```
