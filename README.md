@@ -22,6 +22,7 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
   - [Morphology and Parsers](#morphology-and-parsers)
   - [Universal Dependencies](#universal-dependencies)
   - [Sentiment and Semantic Similarity](#sentiment-and-semantic-similarity)
+  - [Finnish spellchecking](#finnish-spellchecking)
 - [Speech Technologies](#speech-technologies)
   - [Text-to-Speech (TTS)](#text-to-speech-tts)
   - [Speech-to-Text (STT)](#speech-to-text-stt)
@@ -189,6 +190,18 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 - [FinMeter](https://github.com/mikahama/finmeter)
   - [FinMeter models](https://zenodo.org/records/3473456)
   - [Finnish Semantic Relatedness Model](https://b2share.eudat.eu/records/5f1a5add29094d85800e5d4d2b852cdc)
+ 
+### Finnish Spellchecking
+- [Finnish Spellchecking on Linux](https://github.com/JousiaPiha/awesome-finnish-nlp/blob/main/finnish-spellcheking-on-linux.md)
+  - My write-up in Finnish.
+- [Hunspell-fi](https://github.com/fginter/hunspell-fi)
+  - Finnish Hunspell dictionary for Firefox and Thunderbird by Filip Ginter. Can be used with other Hunspell implementations as well.
+- [Nuspell](https://github.com/nuspell/nuspell)
+  - A newer spellchecking engine that is designed for languages with rich morphology.
+- [Voikko](https://voikko.puimula.org/)
+  - Morphological analyzer, spelling and grammar checker and hyphenator, used widely in free and open-source software.
+- [Oikofix](https://oikofix.com/)
+  - Finnish spellcheck and grammar tool online.
 
 
 ## Speech Technologies
