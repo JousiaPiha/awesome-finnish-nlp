@@ -125,7 +125,7 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 - Parliament Plenary Speech Corpus
 - Aalto Finnish Parliament ASR Corpus
 - Lahjoita puhetta
-- [Mozzilla Common Voice](https://commonvoice.mozilla.org/en/datasets)
+- [Mozzilla Common Voice](https://datacollective.mozillafoundation.org/datasets/cmj8u3p3k0089nxxb4u6hcqd5)
 - VoxPopuli Finnish
 - [CSS10](https://github.com/Kyubyong/css10)
   - A Collection of Single Speaker Speech Datasets for 10 Languages
