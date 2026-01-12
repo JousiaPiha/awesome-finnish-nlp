@@ -89,7 +89,9 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 
 ### Evaluation datasets
 
-- todo
+- [FIN-Bench-v2](https://github.com/LumiOpen/lm-evaluation-harness/tree/main/lm_eval/tasks/finbench_v2)
+  - FIN-bench-v2 is a multi-task Finnish language understanding and generation evaluation benchmark.
+  - [Paper](https://arxiv.org/abs/2512.13330)
 
 
 ### Multilingual datasets with a notable Finnish subset
@@ -136,8 +138,8 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 ## Pre-trained Models
 
 ### General Language Models
-- [FinBERT](https://github.com/TurkuNLP/FinBERT)
-  - A BERT-based model pre-trained on Finnish corpora.
+- [Finnish ModernBERT](https://huggingface.co/collections/TurkuNLP/finnish-modernberts)
+  - A ModernBERT-based models pre-trained on Finnish, Swedish, English, Code, Latin, and Northern Sámi.
 
 ### Sentiment Analysis
 - [FinBERT Finnish Sentiment](https://huggingface.co/fergusq/finbert-finnsentiment)
@@ -210,11 +212,20 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 
 - [Piper](https://github.com/rhasspy/piper)
   - A fast, lightweight neural TTS engine with Finnish voice support, designed for offline use on CPUs and embedded devices.
+- [Chatterbox TTS](https://github.com/resemble-ai/chatterbox)
+  - Chatterbox is a family of three state-of-the-art, open-source text-to-speech models by Resemble AI. Chatterbox-multilingual supports Finnish.
+  - Supports one-shot voice cloning.
+- [VibeVoice](https://github.com/vibevoice-community/VibeVoice)
+  - Community-maintained fork of Microsoft's VibeVoice. Its large model has emergent Finnish capabilities, although Finnish is not officially supported.
+  - Supports one-shot voice cloning and up to four speakers.
 
 
 ### Speech-to-Text (STT)
 
-- todo
+- [Whisper](https://github.com/openai/whisper)
+  - Whisper is a general-purpose speech recognition model. It is very capable in Finnish. [Finnish fine-tunes](https://huggingface.co/collections/Finnish-NLP/finnish-whisper-speech-recognition) by Finnish-NLP exists.
+- [Parakeet](https://huggingface.co/nvidia/parakeet-tdt-0.6b-v3)
+  - `parakeet-tdt-0.6b-v3` is a 600-million-parameter multilingual automatic speech recognition (ASR) model designed for high-throughput speech-to-text transcription.
 
 
 ## Machine Translation
@@ -255,16 +266,18 @@ These are proprietary services that support Finnish, often used in production en
 
 ## LLMs for Finnish
 
-A list of general LLMs capable of Finnish.
+A list of general (possibly chat tuned) LLMs capable of Finnish.
 
 | Name    | Openess      | Links |
 |---------|------------- |-------|
 | ChatGPT | Closed       | [ChatGPT](https://chatgpt.com/) |
-| Gemma 3 | Open weights | [Hugging Face](https://huggingface.co/collections/google/gemma-3-release-67c6c6f89c4f76621268bb6d), [Ollama](https://ollama.com/library/gemma3) |
+| Gemma 3 | Open weights | [Hugging Face](https://huggingface.co/collections/google/gemma-3-release), [Ollama](https://ollama.com/library/gemma3) |
 | Gemini  | Closed       | [Gemini](https://gemini.google.com) |
-| Poro    | Open         | [Poro collection](https://huggingface.co/collections/LumiOpen/poro-34b-66506aaedb8d705069ad7ecb) |
-| Viking  | Open         | [Viking collection](https://huggingface.co/collections/LumiOpen/viking-660fa4c659d8544c00f77d9b) |
-| Ahma    | Open         | [Ahma collection](https://huggingface.co/collections/Finnish-NLP/ahma-models-66ee9459e9c6e64c66f452f7)
+| Poro    | Open         | [Poro collection](https://huggingface.co/collections/LumiOpen/poro-34b) |
+| Poro 2    | Open         | [Poro 2 collection](https://huggingface.co/collections/LumiOpen/poro-2) |
+| Viking  | Open         | [Viking collection](https://huggingface.co/collections/LumiOpen/viking) |
+| Ahma    | Open         | [Ahma collection](https://huggingface.co/collections/Finnish-NLP/ahma-models)
+| gpt-oss    | Open weights         | [gpt-oss collection](https://huggingface.co/collections/openai/gpt-oss), [Ollama](https://ollama.com/library/gpt-oss) |
 
 
 ## Organizations and notable users
@@ -306,6 +319,9 @@ A list of general LLMs capable of Finnish.
 ## Papers
 
 A collection of interesting research papers related to Finnish NLP.
+
+### 2026
+- [FIN-bench-v2: A Unified and Robust Benchmark Suite for Evaluating Finnish Large Language Models](https://arxiv.org/abs/2512.13330)
 
 ### 2025
 - [An Expanded Massive Multilingual Dataset for High-Performance Language Technologies](https://arxiv.org/abs/2503.10267)
