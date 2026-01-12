@@ -47,7 +47,7 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
   - A listing of Finnish corpora search results on ELG.
 - [Kotus Aineistot Verkossa](https://kotus.fi/kotus/kieliaineistot/aineistot-verkossa/)
   - A collection of publicly available corpora and lexical resources from the Institute for the Languages of Finland (Kotus), including news, spoken language, dialects, and more.
-- [Finnish corpora at Leipzig Corpora Collection](https://wortschatz.uni-leipzig.de/en/download/Finnish)
+- [Finnish corpora at Leipzig Corpora Collection](https://wortschatz.uni-leipzig.de/en/download/fin)
 
 ### Manually annotated Finnish corpora
 
