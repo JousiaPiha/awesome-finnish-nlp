@@ -210,7 +210,7 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 
 ### Text-to-Speech (TTS)
 
-- [Piper](https://github.com/rhasspy/piper)
+- [Piper](https://github.com/OHF-Voice/piper1-gpl)
   - A fast, lightweight neural TTS engine with Finnish voice support, designed for offline use on CPUs and embedded devices.
 - [Chatterbox TTS](https://github.com/resemble-ai/chatterbox)
   - Chatterbox is a family of three state-of-the-art, open-source text-to-speech models by Resemble AI. Chatterbox-multilingual supports Finnish.
