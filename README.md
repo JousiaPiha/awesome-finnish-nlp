@@ -76,7 +76,6 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 - [Newspaper and Periodical Corpus of the National Library of Finland](https://www.kielipankki.fi/corpora/klk/)
 - [Finnish News Agency Archive](https://www.kielipankki.fi/corpora/stt-fi/)
 - [The Finnish Web Corpus (fiTenTen)](https://www.sketchengine.eu/fitenten-finnish-corpus/)
-- [Finnish news and web crawls, and Wikipedia](https://wortschatz.uni-leipzig.de/en/download/Finnish)
 
 ### Parallel and Multilingual Corpora (Finnish–Other Languages)
 
@@ -216,9 +215,14 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 - [Chatterbox TTS](https://github.com/resemble-ai/chatterbox)
   - Chatterbox is a family of three state-of-the-art, open-source text-to-speech models by Resemble AI. Chatterbox-multilingual supports Finnish.
   - Supports one-shot voice cloning.
+  - Fine-tuned Finnish model by Finnish-NLP: [Chatterbox-Finnish](https://huggingface.co/Finnish-NLP/Chatterbox-Finnish)
 - [VibeVoice](https://github.com/vibevoice-community/VibeVoice)
   - Community-maintained fork of Microsoft's VibeVoice. Its large model has emergent Finnish capabilities, although Finnish is not officially supported.
   - Supports one-shot voice cloning and up to four speakers.
+- [Fish-speech](https://github.com/fishaudio/fish-speech)
+  - State-of-the-art multilingual text-to-speech (TTS) system with good Finnish generation.
+  - Support for sub-word level fine-grained control of prosody and emotion using natural language tags (e.g., [whisper], [excited], [angry]), while natively supporting multi-speaker and multi-turn conversation generation.
+  - One-shot voice cloning.
 
 
 ### Speech-to-Text (STT)
@@ -227,6 +231,8 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
   - Whisper is a general-purpose speech recognition model. It is very capable in Finnish. [Finnish fine-tunes](https://huggingface.co/collections/Finnish-NLP/finnish-whisper-speech-recognition) by Finnish-NLP exists.
 - [Parakeet](https://huggingface.co/nvidia/parakeet-tdt-0.6b-v3)
   - `parakeet-tdt-0.6b-v3` is a 600-million-parameter multilingual automatic speech recognition (ASR) model designed for high-throughput speech-to-text transcription.
+- [VibeVoice-ASR](https://github.com/microsoft/VibeVoice)
+  - A unified speech-to-text model designed to handle 60-minute long-form audio in a single pass, generating structured transcriptions containing Who (Speaker), When (Timestamps), and What (Content), with support for Customized Hotwords.
 
 
 ## Machine Translation
@@ -267,6 +273,8 @@ These are proprietary services that support Finnish, often used in production en
 
 ## LLMs for Finnish
 
+> Note: This is a legacy section. Nowadays, many foundation models are already adequate in Finnish.
+> Todo: Benchmark models and create a comparison table.
 A list of general (possibly chat tuned) LLMs capable of Finnish.
 
 | Name    | Openess      | Links |
