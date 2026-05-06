@@ -243,20 +243,20 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 ### Open-Source Models and Tools
 
 - [TranslateGemma](https://blog.google/innovation-and-ai/technology/developers-tools/translategemma/)
-  A collection of open large language models for translation built on Gemma 3. Supports 55 languages, including Finnish.
-  → Models availabel at [Google's Hugging Face repo](https://huggingface.co/collections/google/translategemma)
-  → Works well locally on [Ollama](https://ollama.com/library/translategemma)
+  - A collection of open large language models for translation built on Gemma 3. Supports 55 languages, including Finnish.
+  - Models availabel at [Google's Hugging Face repo](https://huggingface.co/collections/google/translategemma)
+  - Works well locally on [Ollama](https://ollama.com/library/translategemma)
 
 - [Opus-MT](https://github.com/Helsinki-NLP/Opus-MT)  
-  Open-source neural machine translation models developed by Helsinki-NLP, covering a wide range of language pairs including Finnish.  
-  → Models available at [Hugging Face: Helsinki-NLP](https://huggingface.co/Helsinki-NLP)
+  - Open-source neural machine translation models developed by Helsinki-NLP, covering a wide range of language pairs including Finnish.  
+  - Models available at [Hugging Face: Helsinki-NLP](https://huggingface.co/Helsinki-NLP)
 
 - [Facebook NLLB-200](https://ai.meta.com/research/no-language-left-behind/)  
-  No Language Left Behind (NLLB-200) is a multilingual MT model supporting 200 languages, including Finnish. Designed to improve translation quality for low-resource languages.  
-  → [Hugging Face: facebook/nllb-200-distilled-1.3B](https://huggingface.co/facebook/nllb-200-distilled-1.3B)
+  - No Language Left Behind (NLLB-200) is a multilingual MT model supporting 200 languages, including Finnish. Designed to improve translation quality for low-resource languages.  
+  - [Hugging Face: facebook/nllb-200-distilled-1.3B](https://huggingface.co/facebook/nllb-200-distilled-1.3B)
 
 - [Apertium](https://apertium.org/)  
-  A rule-based machine translation platform supporting Finnish–Estonian and other low-resource pairs. Lightweight, linguistically motivated, and fully open-source.
+  - A rule-based machine translation platform supporting Finnish–Estonian and other low-resource pairs. Lightweight, linguistically motivated, and fully open-source.
 
 
 ### Pipelines and Frameworks
