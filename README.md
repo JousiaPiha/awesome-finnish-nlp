@@ -223,6 +223,9 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
   - State-of-the-art multilingual text-to-speech (TTS) system with good Finnish generation.
   - Support for sub-word level fine-grained control of prosody and emotion using natural language tags (e.g., [whisper], [excited], [angry]), while natively supporting multi-speaker and multi-turn conversation generation.
   - One-shot voice cloning.
+- [OmniVoice](https://github.com/k2-fsa/OmniVoice)
+  - High-Quality Voice Cloning TTS for 600+ Languages. Excellent Finnish performance.
+  - One-shot voice cloning.
 
 
 ### Speech-to-Text (STT)
@@ -238,6 +241,11 @@ A curated list of awesome resources for Natural Language Processing in Finnish. 
 ## Machine Translation
 
 ### Open-Source Models and Tools
+
+- [TranslateGemma](https://blog.google/innovation-and-ai/technology/developers-tools/translategemma/)
+  A collection of open large language models for translation built on Gemma 3. Supports 55 languages, including Finnish.
+  → Models availabel at [Google's Hugging Face repo](https://huggingface.co/collections/google/translategemma)
+  → Works well locally on [Ollama](https://ollama.com/library/translategemma)
 
 - [Opus-MT](https://github.com/Helsinki-NLP/Opus-MT)  
   Open-source neural machine translation models developed by Helsinki-NLP, covering a wide range of language pairs including Finnish.  
